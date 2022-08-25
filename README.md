@@ -6,7 +6,8 @@
 
 Personal Note:
 I used to be a Mechanical Engineer and then a Software Engineer.
-I was bitten by a tick ~2006 and it wasn't treated correctly.  My condition declined and I went for treatment with a Lyme Specialist in 2016
+I was bitten by a tick ~2006 and it wasn't treated correctly.  
+My condition declined and I went for treatment with a Lyme Specialist in 2016.
 That week, my ability to read went away!  I could read each word, but couldn't understand the sentences.
 This year my reading started coming back after I lost ~55lbs on a special diet by Optavia.
 This is my first attempt at programming since 2016.  
